@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="notes">یادداشت ها</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Notes">یادداشت</string>
+    <string name="Reminder">یادآور</string>
+    <string name="Archive">آرشیو</string>
+    <string name="Calendar">تقویم</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="write_note_here">Write Note Here</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel_dialog">Cancel</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Are you sure you want to delete this note?</string>
+    <string name="my_notes_fa">یادداشت های من</string>
+    <string name="search_notes_fa">جستجو در یادداشت ها</string>
+    <string name="note_title_fa">عنوان یادداشت</string>
+    <string name="note_subtitle_fa">زیر عنوان</string>
+    <string name="write_note_here_fa">یادداشت خود را در اینجا بنویسید</string>
+    <string name="miscellanous_fa">جزئیات</string>
+    <string name="pick_color_fa">انتخاب رنگ</string>
+    <string name="add_image_fa">افزودن عکس</string>
+    <string name="add_url_fa">افزودن لینک</string>
+    <string name="delete_note_fa">حذف یادداشت</string>
+    <string name="add_category_fa">افزودن برچسب</string>
+    <string name="add_tag_fa">افزودن برچسب</string>
+    <string name="add_tag_here_fa">نام برچسب را وارد کنید</string>
+    <string name="add_fa">تایید</string>
+    <string name="cancel_fa">لغو</string>
+    <string name="to_do_list_fa">لیست کارها</string>
+    <string name="search_todolist_fa">جستجو در کارها</string>
+    <string name="list_title_fa">عنوان لیست</string>
+    <string name="add_listitem_fa">افزودن کار</string>
+    <string name="add_item_here_fa">نام و توضیحات کار را وارد کنید</string>
+    <string name="add_date_fa">تاریخ</string>
+    <string name="add_time_fa">زمان</string>
+
+</resources>
